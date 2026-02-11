@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D517E-A251-478B-9E16-B49438249849}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class1th (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5519438-A46B-4D08-B53A-7C990F6135D1}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class2th (Class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +20,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class2th (Class)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class2th (Class)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class2th (Class)\\source.cpp",
+              "RelativeToolTip": "..\\Class2th (Class)\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T12:38:09.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class1th (Stream)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class1th (Stream)\\source.cpp",
+              "RelativeToolTip": "..\\Class1th (Stream)\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:08:31.061Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:33.576Z",
               "EditorCaption": ""
