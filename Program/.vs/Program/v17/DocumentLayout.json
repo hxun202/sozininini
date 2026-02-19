@@ -7,10 +7,19 @@
       "RelativeMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3984CA4-3C66-4F83-AEA7-2E214B43F820}|..\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class3th (Constructor \u0026 Destructor)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|solutionrelative:Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|solutionrelative:Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|solutionrelative:Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3984CA4-3C66-4F83-AEA7-2E214B43F820}|..\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class3th (Constructor \u0026 Destructor)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5519438-A46B-4D08-B53A-7C990F6135D1}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class2th (Class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -26,11 +35,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Potion.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Potion.cpp",
+              "RelativeDocumentMoniker": "Potion.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Potion.cpp",
+              "RelativeToolTip": "Potion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-19T12:31:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Potion.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Potion.h",
+              "RelativeDocumentMoniker": "Potion.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Potion.h",
+              "RelativeToolTip": "Potion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-19T12:22:49.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consumable.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Consumable.h",
+              "RelativeDocumentMoniker": "Consumable.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Consumable.h",
+              "RelativeToolTip": "Consumable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-19T12:07:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class3th (Constructor \u0026 Destructor)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\source.cpp",
@@ -43,20 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "delete_scalar.cpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-13T12:11:53.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class2th (Class)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\source.cpp",
@@ -64,12 +99,11 @@
               "RelativeToolTip": "..\\Class2th (Class)\\source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T12:38:09.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T12:38:09.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class1th (Stream)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\source.cpp",
@@ -87,7 +121,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:33.576Z",
               "EditorCaption": ""
