@@ -5,5 +5,6 @@ class Strength : public Stat
 {
 public:
 	void Enhance();
+	~Strength();
 };
 

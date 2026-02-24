@@ -4,5 +4,6 @@ class Intelligence : public Stat
 {
 	public:
 		void Enhance();
+		~Intelligence();
 };
 
