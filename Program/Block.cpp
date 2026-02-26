@@ -5,3 +5,7 @@ void Block::Describe()
 {
 	cout << "This is a block." << endl;
 }
+
+Block::~Block()
+{
+}

@@ -1,7 +1,19 @@
 #include "Stone.h"
 #include "stdafx.h"
 
+Stone::Stone()
+{
+	hardness = 1.5f;
+	resistance = 6.0f;
+}
+
 void Stone::Describe()
 {
-	cout << "Stone Information" << endl;
+	cout << "Stone Hardness : " << hardness << endl;
+	cout << "Stone Resistance : " << resistance << endl;
+}
+
+Stone::~Stone()
+{
+	cout << "Destroyed Stone" << endl;
 }
