@@ -1,36 +1,78 @@
 ﻿#include "stdafx.h"
-#include "Material.h"
-#include "Resource.h"
+#include <vector>
+#include <list>
+#include <deque>
 
 int main()
 {
-#pragma region 스마트 포인터
-	// 포인터를 사용하는 동시에 자동으로 메모리 관리를 해주며,
-	// 경계 확인과 같은 추가 기능을 제공해주는 포인터입니다.
+#pragma region 선형 컨테이너
+	// 데이터를 선형으로 저장하며, 특별한 제약이나 규칙이 없는 컨테이너입니다.
 
-#pragma region unique pointer
-	// 특정한 개체를 하나의 스마트 포인터만 가리킬 수 있도록 
-	// 되어 있는 포인터입니다.
+#pragma region vector container
+	
+	//vector<int> vector;
 
-	//unique_ptr<Material> pointer = make_unique<Material>();
+	//vector.push_back(10);
 
-	//unique_ptr<Material> reference = std::move(pointer);
-#pragma endregion
+	//cout << vector.capacity() << endl;
 
-#pragma region shared pointer
-	// 하나의 자원 객체를 여러 포인터 변수가 가리킬 수 있으며, 
-	// 모든 포인터 객체가 자원 객체를 필요로 하지 않을 때, 
-	// 자원 객체를 해제하도록 설계되어 있는 포인터입니다.
+	//vector.push_back(20);
 
-	//shared_ptr<Resource> texture = make_shared<Resource>();
+	//cout << vector.capacity() << endl;
 
+	//vector.push_back(30);
+
+	//cout << vector.capacity() << endl;
+
+	//vector.push_back(40);
+
+	//cout << vector.capacity() << endl;
+
+	//vector.push_back(50);
+
+	//cout << vector.capacity() << endl;
+
+	//vector.pop_back();
+
+	//for (int i = 0; i < vector.size(); i++)
 	//{
-	//	shared_ptr<Resource> button = texture;
-
-	//	cout << "Reference Count :" << texture.use_count() << endl;
+	//	cout << vector[i] << endl;
 	//}
 
-	//cout << "Reference Count :" << texture.use_count() << endl;
+#pragma endregion
+
+#pragma region list container
+
+	//list<int> list;
+
+	//list.push_back(20);
+	//list.push_back(30);
+
+	//list.push_front(10);
+
+	//list.pop_front();
+
+	//list.push_front(1);
+
+	//list.remove(20);
+
+	//for (const int & element : list)
+	//{
+	//	cout << element << endl;
+	//}
+
+	//list.assign(3, 5);
+
+	//cout << "list size : " << list.size() << endl;
+
+#pragma endregion
+
+#pragma region deque container
+
+	deque<int> deque;
+
+
+
 #pragma endregion
 
 
