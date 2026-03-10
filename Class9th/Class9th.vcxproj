@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Class9th.cpp" />
+    <ClCompile Include="source.cpp" />
     <ClCompile Include="Material.cpp" />
     <ClCompile Include="Resource.cpp" />
   </ItemGroup>

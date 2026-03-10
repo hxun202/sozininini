@@ -7,7 +7,13 @@
       "RelativeMoniker": "D:0:0:{ABC2BD57-AE01-41D5-BF34-866CA2B8EEAF}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E3F6B9C-41C6-4966-8B75-F508ABE8960F}|..\\Class9th\\Class9th.vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\Class9th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F8DC6797-A800-4EDA-8C44-8406B630DE2C}|..\\Class11th (Container Adapter)\\Class11th (Container Adapter).vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class11th (Container Adapter)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F6B9C-41C6-4966-8B75-F508ABE8960F}|..\\Class9th\\Class9th.vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2596A7-ED19-4BBF-9309-BEF17804E292}|..\\Class10th (Linear Container)\\Class10th (Linear Container).vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class10th (Linear Container)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E3F6B9C-41C6-4966-8B75-F508ABE8960F}|..\\Class9th\\Class9th.vcxproj|C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -50,16 +56,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class9th.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\Class9th.cpp",
-              "RelativeDocumentMoniker": "..\\Class9th\\Class9th.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\Class9th.cpp",
-              "RelativeToolTip": "..\\Class9th\\Class9th.cpp",
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class11th (Container Adapter)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class11th (Container Adapter)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class11th (Container Adapter)\\source.cpp",
+              "RelativeToolTip": "..\\Class11th (Container Adapter)\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T12:28:55.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class9th\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\source.cpp",
+              "RelativeToolTip": "..\\Class9th\\source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-09T11:02:03.653Z",
@@ -67,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class8th (Template)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Template)\\source.cpp",
@@ -79,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Vector2.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class7th (Encapsulation)\\Vector2.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Vector2.cpp",
@@ -91,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class7th (Encapsulation)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\source.cpp",
@@ -103,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class6th (Abstract)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\source.cpp",
@@ -115,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class5th (Polymorphism)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\source.cpp",
@@ -127,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class4th (Inheritance)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\source.cpp",
@@ -139,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class3th (Constructor \u0026 Destructor)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\source.cpp",
@@ -151,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class2th (Class)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\source.cpp",
@@ -163,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class1th (Stream)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\source.cpp",
@@ -181,7 +200,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:33.576Z",
               "EditorCaption": ""
@@ -189,6 +208,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class10th (Linear Container)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class10th (Linear Container)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class10th (Linear Container)\\source.cpp",
+              "RelativeToolTip": "..\\Class10th (Linear Container)\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T11:14:54.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Resource.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\Resource.cpp",
               "RelativeDocumentMoniker": "..\\Class9th\\Resource.cpp",
@@ -196,12 +228,11 @@
               "RelativeToolTip": "..\\Class9th\\Resource.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T11:03:22.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T11:03:22.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Material.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininini\\sozininini\\Class9th\\Material.cpp",
               "RelativeDocumentMoniker": "..\\Class9th\\Material.cpp",
@@ -209,8 +240,7 @@
               "RelativeToolTip": "..\\Class9th\\Material.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T11:03:32.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T11:03:32.35Z"
             }
           ]
         }
